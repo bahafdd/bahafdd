@@ -1,7 +1,7 @@
 <!-- Banner -->
-<img src="https://github.com/bahafdd/bahafdd/blob/main/banner.png" alt="Baha | PHP & E-Commerce Developer" style="width:100%;"/>
+<img src="https://github.com/bahafdd/bahafdd/blob/main/banner.png" alt="Themestar | PHP & E-Commerce Developer" style="width:100%;"/>
 
-# Hi there, I'm Baha! 👋
+# Hi there, I'm Themestar! 👋
 
 **Professional PHP Developer** | **WordPress & OpenCart Expert** | **Magento 2 Specialist**  
 **Founder of [Al Atlashost](https://alatlashost.com)** & [MagentoArabic.com](https://magentoarabic.com)
@@ -26,7 +26,7 @@ I'm a full-stack web developer from **Morocco**, passionate about building power
 
 ### 🚀 About Me
 
-- 🔧 8+ years in PHP, eCommerce & custom plugin/module development
+- 🔧 12+ years in PHP, eCommerce & custom plugin/module development
 - 🧱 Deep experience in Magento 2, OpenCart & WordPress
 - 🌐 Founder of [Al Atlashost](https://alatlashost.com) – Affordable and secure hosting solutions
 - 🌍 Founder of [MagentoArabic.com](https://magentoarabic.com) – Arabic Magento resources
