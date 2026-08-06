@@ -28,7 +28,7 @@ I'm a full-stack web developer from **Morocco**, passionate about building power
 
 - 🔧 12+ years in PHP, eCommerce & custom plugin/module development
 - 🧱 Deep experience in Magento 2, OpenCart & WordPress
-- 🌐 Founder of [Al Atlashost](https://alatlashost.com) – Affordable and secure hosting solutions
+- 🌐 Founder of [Professional Magento 2 extensions](https://oubpa.com) –  Professional Magento 2 extensions
 - 🌍 Founder of [MagentoArabic.com](https://magentoarabic.com) – Arabic Magento resources
 - ☁️ DevOps & hosting skills: DigitalOcean, AWS, WHM, cPanel, VPS
 
