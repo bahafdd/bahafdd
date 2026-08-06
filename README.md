@@ -54,7 +54,7 @@ I'm a full-stack web developer from **Morocco**, passionate about building power
 ### 🔗 Let's Connect
 
 - **Website:** [magentoarabic.com](https://magentoarabic.com)
-- **Hosting:** [alatlashost.com](https://alatlashost.com)
+- **Marketplace:** [Professional Magento 2 extensions](https://oubpa.com/shop)
 - **LinkedIn:** [linkedin.com/in/bahafdd](https://linkedin.com/in/bahafdd)
 - **Email:** contact@magentoarabic.com
 
